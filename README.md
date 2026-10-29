@@ -1,3 +1,1 @@
 hello, internet.
-
-/* nothing fancy */
